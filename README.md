@@ -123,8 +123,8 @@ Each test case demonstrates different aspects of the analyzer's capabilities.
 
 ```text
 ===================================================================
-|                    C SOURCE CODE ANALYZER                      |
-|                         Version 2.0                            |
+|                    C SOURCE CODE ANALYZER                       |
+|                         Version 2.0                             |
 |                                                                 |
 |  Features:                                                      |
 |  * Variable Declaration Detection                               |
